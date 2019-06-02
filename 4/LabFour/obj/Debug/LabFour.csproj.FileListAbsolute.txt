@@ -1,0 +1,9 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\bin\Debug\LabFour.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\bin\Debug\LabFour.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\bin\Debug\LabFour.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\obj\Debug\LabFour.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\obj\Debug\LabFour.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\obj\Debug\LabFour.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\bin\Debug\Socket.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\bin\Debug\Socket.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabFour\LabFour\bin\Debug\Socket.xml
