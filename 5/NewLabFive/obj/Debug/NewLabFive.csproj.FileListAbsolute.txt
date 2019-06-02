@@ -1,0 +1,6 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\NewLabFive\NewLabFive\obj\Debug\NewLabFive.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\NewLabFive\NewLabFive\bin\Debug\NewLabFive.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\NewLabFive\NewLabFive\bin\Debug\NewLabFive.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\NewLabFive\NewLabFive\bin\Debug\NewLabFive.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\NewLabFive\NewLabFive\obj\Debug\NewLabFive.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\NewLabFive\NewLabFive\obj\Debug\NewLabFive.pdb

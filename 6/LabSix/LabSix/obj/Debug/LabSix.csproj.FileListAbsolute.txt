@@ -1,0 +1,6 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\LabSix\LabSix\bin\Debug\LabSix.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\LabSix\LabSix\bin\Debug\LabSix.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\LabSix\LabSix\bin\Debug\LabSix.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\LabSix\LabSix\obj\Debug\LabSix.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\LabSix\LabSix\obj\Debug\LabSix.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\LabSix\LabSix\obj\Debug\LabSix.pdb

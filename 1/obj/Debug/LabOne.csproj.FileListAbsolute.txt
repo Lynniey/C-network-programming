@@ -1,0 +1,13 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\obj\Debug\LabOne.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\LabOne.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\LabOne.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\BinarySerializer.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\NuGet.Core.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\PacketDotNet.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\SharpPcap.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\PacketDotNet.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\bin\Debug\SharpPcap.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\obj\Debug\LabOne.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabOne\obj\Debug\LabOne.pdb

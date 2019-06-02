@@ -1,0 +1,9 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\obj\Debug\LabThreeSecond.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\bin\Debug\LabThreeSecond.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\bin\Debug\LabThreeSecond.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\bin\Debug\LabThreeSecond.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\bin\Debug\PacketDotNet.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\bin\Debug\PacketDotNet.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\obj\Debug\LabThreeSecond.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThreeSecond\LabThreeSecond\obj\Debug\LabThreeSecond.pdb

@@ -1,0 +1,7 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\obj\Debug\LabSeven.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\bin\Debug\LabSeven.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\bin\Debug\LabSeven.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\bin\Debug\LabSeven.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\obj\Debug\LabSeven.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\obj\Debug\LabSeven.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabSeven\LabSeven\bin\Debug\FluentSharp.CoreLib.dll

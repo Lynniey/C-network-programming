@@ -1,0 +1,12 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\obj\Debug\LabThreeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\LabThreeFirst.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\LabThreeFirst.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\LabThreeFirst.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\PacketDotNet.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Socket.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\PacketDotNet.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Socket.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Socket.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\obj\Debug\LabThreeFirst.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\obj\Debug\LabThreeFirst.pdb

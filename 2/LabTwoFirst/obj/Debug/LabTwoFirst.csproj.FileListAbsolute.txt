@@ -1,0 +1,10 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\LabTwoFirst.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\LabTwoFirst.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\LabTwoFirst.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\PacketDotNet.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\SharpPcap.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\obj\Debug\LabTwoFirst.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\obj\Debug\LabTwoFirst.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\obj\Debug\LabTwoFirst.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\Socket.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabTwoFirst\bin\Debug\Socket.xml

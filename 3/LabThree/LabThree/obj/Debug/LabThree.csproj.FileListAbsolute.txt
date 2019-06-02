@@ -1,0 +1,14 @@
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\LabThree.exe.config
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\LabThree.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\LabThree.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\BinarySerializer.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\PacketDotNet.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\SharpPcap.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Socket.dll
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\PacketDotNet.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\SharpPcap.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Socket.pdb
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\bin\Debug\Socket.xml
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\obj\Debug\LabThree.csprojResolveAssemblyReference.cache
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\obj\Debug\LabThree.exe
+C:\Users\Лина\Documents\SharpDevelop Projects\Labs\LabThree\LabThree\obj\Debug\LabThree.pdb
